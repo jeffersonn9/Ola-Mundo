@@ -23,9 +23,10 @@ Lista de tarefas
 - [x] Lista 2 
 
 
-Tabelas 
+Tabelas em Markdown
 
 Num | Nome | Nota
 ---|---|---
  1 | Jefferson | 8.5
+ 2 | Ph | 4.5
    
