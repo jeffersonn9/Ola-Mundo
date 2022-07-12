@@ -2,7 +2,7 @@
  Primeiro versionamento no GitHub
  Ajustando o README pelo site
  
-  <p> Testando Lista em Markdown
+ Testando Lista em Markdown
 
         Lista numerada 
 
@@ -20,4 +20,4 @@
 
         - [] Lista 1
         - [x] Lista 2 
-    </p>
+   
