@@ -29,4 +29,15 @@ Num | Nome | Nota
 ---|---|---
  1 | Jefferson | 8.5
  2 | Ph | 4.5
+ 
+ 
+Programa 
+
+'''
+num = input('Digite um numero)
+if num == 10
+    print('Olá mundo!)
+else:
+    print('Olá error')
+'''
    
