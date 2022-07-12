@@ -21,4 +21,11 @@ Lista de tarefas
 
 - [ ] Lista 1
 - [x] Lista 2 
+
+
+Tabelas 
+
+Num | Nome | Nota
+---|---|---
+1 | Jefferson | 8.5
    
