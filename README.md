@@ -35,10 +35,11 @@ Programa
 
 '''
 
-num = input('Digite um numero)
-if num == 10
-    print('Olá mundo!)
+num = int(input('Digite um numero'))
+
+if num == 10:
+    print('Olá mundo!')
 else:
-    print('Olá error')
+    print("Olá error")
 '''
    
