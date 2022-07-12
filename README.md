@@ -4,20 +4,21 @@
  
  Testando Lista em Markdown
 
-        Lista numerada 
+Lista numerada 
 
-        1. lista 1
-           1. topico 1 da lista 1 
+1. lista 1
+1. topico 
+   1. da lista 1 
 
-        Lista Dermarcada
+Lista Dermarcada
         
-        * Lista 1
-        * Lista 2 
-           * Topico lista
+* Lista 1
+* Lista 2 
+   * Topico lista
 
            
-        Lista de tarefas
+Lista de tarefas
 
-        - [] Lista 1
-        - [x] Lista 2 
+- [] Lista 1
+- [x] Lista 2 
    
