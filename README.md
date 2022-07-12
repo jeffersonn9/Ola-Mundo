@@ -34,6 +34,7 @@ Num | Nome | Nota
 Programa 
 
 '''
+
 num = input('Digite um numero)
 if num == 10
     print('Olá mundo!)
