@@ -3,4 +3,4 @@
  Ajustando o README pelo site
  
  - [ ] Lista 
- - [ ] Lista 2 
+ - [x] Lista 2  
