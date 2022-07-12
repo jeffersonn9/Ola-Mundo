@@ -19,6 +19,6 @@ Lista Dermarcada
            
 Lista de tarefas
 
-- [] Lista 1
+- [ ] Lista 1
 - [x] Lista 2 
    
