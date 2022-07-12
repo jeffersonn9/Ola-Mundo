@@ -31,15 +31,4 @@ Num | Nome | Nota
  2 | Ph | 4.5
  
  
-Programa 
 
-'''
-
-num = int(input('Digite um numero'))
-
-if num == 10:
-    print('Olá mundo!')
-else:
-    print("Olá error")
-'''
-   
